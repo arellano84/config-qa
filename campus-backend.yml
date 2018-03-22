@@ -63,9 +63,9 @@ spring:
     fromIP: campus.joedayz.pe
 
   datasource:
-    url: jdbc:mysql://localhost/joecampus_api
-    username: joecampus_api
-    password: Dr3cVhcAB!d#6WqU
+    url: jdbc:mysql://localhost/api
+    username: root
+    password: root
     testOnBorrow: true
     removeAbandonedTimeout: 1800
     removeAbandoned: true
